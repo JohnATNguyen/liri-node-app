@@ -22,7 +22,7 @@ function twitterFunction() {
 function spotifyFunction() {
     var spotify = require('spotify');
     // var input = process.argv.splice(3);
-    if (input == '') {
+    if (input === '') {
         input = 'The Sign Ace of Base'
     }
     spotify.search({ type: 'track', query: input }, function(err, data) {
@@ -48,7 +48,7 @@ function spotifyFunction() {
 function omdbFunction() {
     var request = require("request");
     // var input = process.argv.slice(3);
-    if (input == '') {
+    if (input === '') {
     	input = 'Mr. Nobody';
     }
     request("http://www.omdbapi.com/?t=" + input + "&y=&plot=short&r=json", function(error, response, body) {

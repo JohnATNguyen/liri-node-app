@@ -34,3 +34,17 @@ Song Name: I Want It That Way
 Preview Link: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
 Album: The Hits--Chapter One
 **********
+Artist Name: Drake
+Song Name: Madonna
+Preview Link: https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+Album: If You're Reading This It's Too Late
+**********
+Name: Free Willy
+Year: 1993
+IMDB Rating: 5.9
+Country: USA, France
+Language: English
+Plot: When a boy learns that a beloved killer whale is to be killed by the aquarium owners, the boy risks everything to free the whale.
+Actors: Jason James Richter, Lori Petty, Jayne Atkinson, August Schellenberg
+Rotten Tomatoes URL: 57%
+**********
